@@ -1,0 +1,8 @@
+ida/
+extract/
+log/
+idb/
+__pycache__/
+t.ipynb
+t.py
+clean.sh
